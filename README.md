@@ -6,16 +6,16 @@ Embedded & Robotics engineer • Computer Vision • ROS2 • STM32/ESP32 • Ra
 ---
 
 ### 🚀 О себе
-- 🇰🇿 Актау · 3‑й курс, Faculty of Science & Technology
-- 🛠️ Разрабатываю **роботов и встраиваемые системы**, люблю чистый код и аккуратную механику
-- 🤖 Сейчас: **Autonomous Delivery Platform** (SLAM + LiDAR, ROS2 на Raspberry Pi 5)  
-- 🎯 Интересы: CV/ML (YOLOv5/8, TFLite, PyTorch), ROS2, FreeRTOS, STM32 HAL/LL, KiCad, Fusion 360
+- 🇰🇿 Актау · 3‑й курс, Computer engineering 
+- Разрабатываю **роботов и встраиваемые системы**, люблю чистый код и аккуратную механику
+- Сейчас: **Autonomous Delivery Platform** (SLAM + LiDAR, ROS2 на Raspberry Pi 5)  
+- Интересы: CV/ML (YOLOv5/8, TFLite, PyTorch), ROS2, FreeRTOS, STM32 HAL/LL, KiCad, Fusion 360
 
 ---
 
 ### 🔗 Контакты
 - Instagram: <a href="https://instagram.com/yryszlab" target="_blank">@yryszlab</a>
-- LinkedIn: <!-- https://www.linkedin.com/in/yryszhan-sansyzbay-6a9b26270/ -->  
+- LinkedIn: <a https://www.linkedin.com/in/yryszhan-sansyzbay-6a9b26270/ </a>  
 - Email: <!-- yryszhan232@gmail.com -->
 
 ---
