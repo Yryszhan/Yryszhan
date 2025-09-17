@@ -15,7 +15,7 @@ Embedded & Robotics engineer • Computer Vision • ROS2 • STM32/ESP32 • Ra
 
 ### 🔗 Контакты
 - Instagram: <a href="https://instagram.com/yryszlab" target="_blank">@yryszlab</a>
-- LinkedIn: <a https://www.linkedin.com/in/yryszhan-sansyzbay-6a9b26270/ </a>  
+- LinkedIn: https://www.linkedin.com/in/yryszhan-sansyzbay-6a9b26270/ </a>  
 - Email: <!-- yryszhan232@gmail.com -->
 
 ---
