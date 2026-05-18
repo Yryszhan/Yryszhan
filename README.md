@@ -1,26 +1,29 @@
-<h1 align="center">👋 Сәлем! / Привет! Я — Yryszhan</h1>
+<h1 align="center">Yryszhan Sansyzbay</h1>
 <p align="center">
-Embedded & Robotics engineer • Computer Vision • ROS2 • STM32/ESP32 • Raspberry&nbsp;Pi • 3D Printing
+Embedded Systems Engineer — STM32 · ESP32 · Raspberry Pi · LoRaWAN · Computer Vision · PCB Design
 </p>
 
 ---
 
-### 🚀 О себе
-- 🇰🇿 Актау · 3‑й курс, Computer engineering 
-- Разрабатываю **роботов и встраиваемые системы**, люблю чистый код и аккуратную механику
-- Сейчас: **Autonomous Delivery Platform** (SLAM + LiDAR, ROS2 на Raspberry Pi 5)  
-- Интересы: CV/ML (YOLOv5/8, TFLite, PyTorch), ROS2, FreeRTOS, STM32 HAL/LL, KiCad, Fusion 360
+### About
+
+- Computer Engineering student, Yessenov University, Aktau, Kazakhstan
+- Focus areas: embedded systems, IoT, computer vision, PCB design
+- Current project: LoRaWAN Industrial Node Controller (STM32, KiCad, ChirpStack)
+- Interests: STM32 HAL/LL/BARE METAL, FreeRTOS, KiCad, ROS2, YOLOv8, TFLite, Buildroot
 
 ---
 
-### 🔗 Контакты
-- Instagram: <a href="https://instagram.com/yryszlab" target="_blank">@yryszlab</a>
-- LinkedIn: https://www.linkedin.com/in/yryszhan-sansyzbay-6a9b26270/ </a>  
-- Email: yryszhan232@gmail.com </a>
+### Contact
+
+- LinkedIn: [yryszhan-sansyzbay](https://www.linkedin.com/in/yryszhan-sansyzbay-6a9b26270/)
+- Instagram: [@yryszhan.engineer](https://www.instagram.com/yryszhan.engineer/)
+- Email: yryszhan232@gmail.com
 
 ---
 
-### 📦 Техстек
+### Stack
+
 <p>
   <img src="https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white" />
@@ -29,7 +32,6 @@ Embedded & Robotics engineer • Computer Vision • ROS2 • STM32/ESP32 • Ra
   <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white" />
   <img src="https://img.shields.io/badge/Fusion%20360-FC6D26?logo=autodesk&logoColor=white" />
@@ -38,20 +40,18 @@ Embedded & Robotics engineer • Computer Vision • ROS2 • STM32/ESP32 • Ra
 
 ---
 
-### 📊 Статистика
+### GitHub Stats
+
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yryszhan&show_icons=true&count_private=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yryszhan&layout=compact&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yryszhan&show_icons=true&count_private=true&hide_title=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yryszhan&layout=compact&langs_count=8&theme=default" />
 </p>
 <p>
-  <img height="165" src="https://streak-stats.demolab.com/?user=Yryszhan" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Yryszhan&theme=default" />
 </p>
 
 ---
 
-### 🏆 Достижения (коротко)
-Elbasy medal (bronze/silver), призёр WRO и хакатонов, активный участник Fab Academy 2025.
+### Recognition
 
----
-
-<p align="center"><i>“Make it work. Make it right. Make it fast.”</i></p>
+Elbasy Award recipient (bronze, silver). WRO finalist. Fab Academy 2025 graduate (MIT CBA network). Regional engineering competition laureate.
