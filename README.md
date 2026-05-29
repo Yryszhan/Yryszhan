@@ -17,7 +17,7 @@ Embedded Systems Engineer — STM32 · ESP32 · Raspberry Pi · LoRaWAN · Compu
 ### Contact
 
 - LinkedIn: [yryszhan-sansyzbay](https://www.linkedin.com/in/yryszhan-sansyzbay-6a9b26270/)
-- Instagram: [@yryszhan.engineer](https://www.instagram.com/yryszhan.engineer/)
+- Instagram: [@yryszhan.engineer](https://www.instagram.com/yrys_szh/)
 - Email: yryszhan232@gmail.com
 
 ---
