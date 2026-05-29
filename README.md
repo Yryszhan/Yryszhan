@@ -40,18 +40,6 @@ Embedded Systems Engineer — STM32 · ESP32 · Raspberry Pi · LoRaWAN · Compu
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yryszhan&show_icons=true&count_private=true&hide_title=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yryszhan&layout=compact&langs_count=8&theme=default" />
-</p>
-<p>
-  <img height="165" src="https://streak-stats.demolab.com/?user=Yryszhan&theme=default" />
-</p>
-
----
-
 ### Recognition
 
 Elbasy Award recipient (bronze, silver). WRO finalist. Fab Academy 2025 graduate (MIT CBA network). Regional engineering competition laureate.
