@@ -71,6 +71,7 @@ function decodeUplink(input) {
 //   {"freq_raw": 5000}                -> 04 10 00 13 88  (сотые доли %)
 //   {"modbus_write": {"reg": 4096, "value": 1}}
 //   {"poll": true}                    -> 05
+//   {"interval": {"status": 300, "modbus": 60}}  -> 06 01 2C 00 3C  (0 = не менять)
 function encodeDownlink(input) {
   var d = input.data;
   if (d.relays !== undefined) return { fPort: 10, bytes: [0x01, d.relays & 3] };
@@ -91,6 +92,11 @@ function encodeDownlink(input) {
     return { fPort: 10, bytes: [0x04, (w.reg >> 8) & 255, w.reg & 255, (w.value >> 8) & 255, w.value & 255] };
   }
   if (d.poll) return { fPort: 10, bytes: [0x05] };
+  if (d.interval) {
+    var st = d.interval.status || 0, mb = d.interval.modbus || 0;
+    if ((st && st < 10) || (mb && mb < 10) || st > 65535 || mb > 65535) return { errors: ["interval 10..65535 s"] };
+    return { fPort: 10, bytes: [0x06, (st >> 8) & 255, st & 255, (mb >> 8) & 255, mb & 255] };
+  }
   return { errors: ["unknown command"] };
 }
 
